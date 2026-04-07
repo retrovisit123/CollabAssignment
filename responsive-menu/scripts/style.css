@@ -1,0 +1,9 @@
+body{
+    background-color: #CCCCCC;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 14pt;
+}
+#logo{
+    height: 40px;
+    background-size: 20%;
+}
